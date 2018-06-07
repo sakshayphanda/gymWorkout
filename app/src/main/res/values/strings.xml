@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GymTraining</string>
+    <string name="skip">skip intro</string>
+</resources>
